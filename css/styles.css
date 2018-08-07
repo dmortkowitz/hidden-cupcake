@@ -1,0 +1,20 @@
+#image-showing {
+  display: none;
+}
+ .clickable {
+   cursor: pointer;
+   color: #0088cc;
+ }
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+#image-hidden {
+  display: none;
+}
+
+img {
+  width: 300px;
+  height: 350px;
+}
